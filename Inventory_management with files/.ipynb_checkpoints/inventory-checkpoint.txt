@@ -1,0 +1,4 @@
+1,Kitkat,10,100
+2,Dairy Milk,10,100
+3,Kurkure,5,200
+4,Big Kurkure,20,100
